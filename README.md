@@ -1,4 +1,4 @@
-### Hi there, I'm Scoder12!
+### :wave: Hi there, I'm Scoder12!
 
 I'm a passionate 14 year old developer.
 
