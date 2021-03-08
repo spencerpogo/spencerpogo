@@ -2,18 +2,21 @@
 
 I'm a passionate 14 year old developer.
 
-### I like: 
+### I love: 
 
-- Coding
+- Coding, mainly full stack web development
 - Solving problems
 - Playing CTFs and learning about information security
 
-### I work with:
+### Tech work with:
 
-- JavaScript / Typescript
-- Python and shell scripting
+- JavaScript, Typescript, Node.js
+- React, Next.js
+- Python, Flask, aiohttp
+- Rust
 - Go
-- Some C, C++, Java, and PHP
+- Shell scripts
+- C, C++, Java, and PHP
 
 ### More about me
 
