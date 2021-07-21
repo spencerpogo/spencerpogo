@@ -1,6 +1,6 @@
 ### :wave: Hi there, I'm Scoder12!
 
-I'm a passionate 14 year old developer.
+I'm a passionate 15 year old developer.
 
 ### I love: 
 
@@ -20,15 +20,15 @@ I'm a passionate 14 year old developer.
 
 ### More about me
 
-- 🔭 I’m currently working on [murdermystery](https://github.com/Scoder12/murdermystery), a a web game based on [Mafia](https://en.wikipedia.org/wiki/Mafia_(party_game)) written with React, Typescript, and Go. 
-- 🌱 I’m currently learning Go
-- 📫 How to reach me: Discord. Click the badge [on my website](https://scoder12.ml) to join a server where you can DM me.
+- 🔭 I’m currently working on [asciidesmos](https://github.com/Scoder12/asciidesmos), a domain specific language for writing desmos graphs, implemented in rust.
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me: [Join my discord](https://discord.gg/czzv7FT) to direct message me or message me on [my twitter](https://twitter.com/Scoder121)
 - ⚡ Fun fact: I like to go [hiking](https://repl.it/talk/announcements/Developer-Spotlights-Hike-away/43156)
 
-[My twitter](https://twitter.com/Scoder121)
+I don't tweet often but you can [Follow me on Twitter](https://twitter.com/Scoder121)
 
 ### Stats
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=Scoder12)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=Scoder12&theme=radical)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Scoder12)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Scoder12&theme=radical)
