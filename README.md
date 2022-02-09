@@ -1,6 +1,6 @@
 ### :wave: Hi there, I'm Scoder12!
 
-I'm a passionate 15 year old developer.
+I'm a passionate 16 year old developer.
 
 ### I love: 
 
