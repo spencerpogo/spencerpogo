@@ -20,12 +20,12 @@ I'm a passionate 16 year old developer.
 
 ### More about me
 
-- 🔭 I’m currently working on [asciidesmos](https://github.com/Scoder12/asciidesmos), a domain specific language for writing desmos graphs, implemented in rust.
-- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working on [sink](https://github.com/Scoder12/sink), a fullstack automatic time-tracking app.
+- 🌱 I’m currently learning Tailwind CSS
 - 📫 How to reach me: [Join my discord](https://discord.gg/czzv7FT) to direct message me or message me on [my twitter](https://twitter.com/Scoder121)
 - ⚡ Fun fact: I like to go [hiking](https://repl.it/talk/announcements/Developer-Spotlights-Hike-away/43156)
 
-I don't tweet often but you can [Follow me on Twitter](https://twitter.com/Scoder121)
+I don't tweet often but you can [follow me on Twitter](https://twitter.com/Scoder121)
 
 ### Stats
 
