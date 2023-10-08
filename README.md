@@ -16,8 +16,9 @@
 
 ### Stats
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=Scoder12&theme=radical)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Scoder12&theme=radical)
+![](https://raw.githubusercontent.com/Scoder12/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Scoder12/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Scoder12/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Scoder12/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 📫 How to reach me: [Join my discord](https://discord.gg/czzv7FT) to direct message me
