@@ -2,17 +2,18 @@
 
 ### I love: 
 
-- full stack web development and systems programming
-- solving problems
-- playing CTFs and learning about information security
+- full stack web development
+- systems programming
+- playing [CTF](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity))
 
-### Tech I love:
+### Tech I love working with:
 
-- Rust (strong typing, functional programming)
 - Typescript
+- Rust
 - Python
-- Nix
-- ...and many more
+- Nix (see [my dotfiles](https://github.com/spencerpogo/dotfiles))
+- C
+- Linux
 
 ### Stats
 
