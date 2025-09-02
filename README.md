@@ -1,7 +1,7 @@
 ### :wave: Hi there! I'm Spencer!
 
 - I'm a software/hardware engineer
-- Currently working at **N1.xyz**
+- Currently studying EE & CS at MIT
 
 ### I love: 
 
